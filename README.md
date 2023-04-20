@@ -6,7 +6,7 @@ Welcome to my Github profile!
 ### About me
 
  - 👘 I’m currently working on textil designer
- - 👩🏻‍💻 I’m currently learning <strong>Front End Development</strong> at Awari and Origamid
+ - 👩🏻‍💻 I’m currently learning <strong>Front End Development</strong> 
  - 🎓 My background is as a designer for almost 13 years
  - 🚀 In 2022 I decided to change careers and I want to explore the <strong>IT World</strong>
  <div>
