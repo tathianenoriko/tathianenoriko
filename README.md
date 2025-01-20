@@ -6,9 +6,9 @@ Welcome to my Github profile!
 ### About me
 
  - 👘 I’m currently working on textil designer
- - 👩🏻‍💻 I’m currently learning <strong>Front End Development</strong> 
+ - 👩🏻‍💻 I’m currently learning <strong>Web Development</strong> 
  - 🎓 My background is as a designer for almost 13 years
- - 🚀 In 2022 I decided to change careers and I want to explore the <strong>IT World</strong>
+ - 🚀 I decided to change careers and I want to explore the new opportunities that challenge me and offer fresh experiences.
  <div>
  
  <a href="https://www.linkedin.com/in/tathianenoriko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
